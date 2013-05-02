@@ -1,4 +1,4 @@
 less-fontstacks
 ===============
 
-Just a Collection of Font-Families as LESS Mixins
+A Collection of font-family Stacks bundled as LESS Mixins
